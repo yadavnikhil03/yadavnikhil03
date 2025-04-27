@@ -1,12 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/RipperHybrid/RipperHybrid/raw/Master/thumb/thumb.gif" width="600" alt="Thumbnail GIF" style="display: block; margin: 0 auto; filter: drop-shadow(0 0 10px #6F46D9);" />
-  
-  <div id="badges" style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 20px;">
-    <a href="https://github.com/yadavnikhil03" target="_blank">
-      <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-    </a>
-  </div>
-  
+
   <div style="margin-top: 20px;">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=21&duration=4000&pause=800&color=8771F7&background=8F49F700&center=true&vCenter=true&width=500&height=70&lines=%E2%96%88%E2%96%88%E2%96%88%20Player%20Sung%20Jinwoo%20recognized.;Initializing%20System%20Console...;Dungeon%20%5BGitHub%5D%20Discovered!;Rank%3A%20Rising%20Developer%20(Evolving);||%20CODING%20QUEST%20INITIATED%20%5B100%25%5D%20||;%E2%96%88%E2%96%88%E2%96%88%20You%20have%20mail!%20(Connect%20%E2%9C%89)" alt="Solo Leveling Style Typing" style="filter: drop-shadow(0 0 10px #6F46D9);" />
@@ -42,11 +36,5 @@
 <p align="center">
   <a href="https://github.com/yadavnikhil03" target="_blank">
     <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yadavnikhil03">
-    <img src="https://github-readme-stats.vercel.app/api?username=yadavnikhil03&show_icons=true&theme=radical" alt="GitHub Stats"/>
   </a>
 </p>
