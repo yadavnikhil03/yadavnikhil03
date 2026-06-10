@@ -14,6 +14,11 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 - 💬 Ask me about anything [here](https://github.com/yadavnikhil03/yadavnikhil03/issues)
 
+<p align="center">
+  <img src="https://count.getloli.com/@yadavnikhil03?name=yadavnikhil03&theme=moebooru" />
+</p>
+
+<br>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -35,10 +40,12 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <br />
 <br />
 
-
-<a href="https://instagram.com/yadavnikhil._">
-  <img align="right" alt="Nikhil | Instagram" width="21px" src="./assets/instagram.svg" />
-</a>
-<a href="https://github.com/yadavnikhil03">
-  <img align="right" alt="Nikhil | GitHub" width="21px" src="./assets/github.svg" />
-</a>
+<p align="center">
+  <a href="https://github.com/yadavnikhil03">
+    <img alt="GitHub" width="24px" src="./assets/github.svg" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/yadavnikhil._">
+    <img alt="Instagram" width="24px" src="./assets/instagram.svg" />
+  </a>
+</p>
