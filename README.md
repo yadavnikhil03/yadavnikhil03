@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Nikhil 👋</h1>
-
 <p align="center">
   <a href="https://github.com/yadavnikhil03">
     <img width="80%" alt="Hello, I'm Nikhil. I do open source" src="./assets/gh-readme-header.png" />
