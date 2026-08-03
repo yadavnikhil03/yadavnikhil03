@@ -92,5 +92,5 @@ def lines_to_svg(lines):
     print(f"Generated new ascii.svg successfully with {len(lines)} lines.")
 
 if __name__ == '__main__':
-    lines = image_to_ascii('avatar.jpg', width=90)
+    lines = image_to_ascii('avatar_masked.jpg', width=90)
     lines_to_svg(lines)

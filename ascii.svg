@@ -6,7 +6,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c0)">
-  <text xml:space="preserve" x="14" y="25.2" class="a" font-size="12.9">+***********c=::::::-+-++++*ccccccccccccccccccccccccccccc*********cccccccccc**************</text>
+  <text xml:space="preserve" x="14" y="25.2" class="a" font-size="12.9">@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@</text>
 </g>
 <rect y="15" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="0.00s" dur="0.09s" fill="freeze"/>
@@ -19,7 +19,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c1)">
-  <text xml:space="preserve" x="14" y="40.2" class="a" font-size="12.9">+************+::::::-+-++++**ccccccccccccccccccccccccccccccccccccccc**********************</text>
+  <text xml:space="preserve" x="14" y="40.2" class="a" font-size="12.9">@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%%###################%%%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@@@@</text>
 </g>
 <rect y="30" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="0.09s" dur="0.09s" fill="freeze"/>
@@ -32,7 +32,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c2)">
-  <text xml:space="preserve" x="14" y="55.2" class="a" font-size="12.9">+************+:::--:=+-++*+**cccccccccccccccccccccccccc***cccccc******************c*******</text>
+  <text xml:space="preserve" x="14" y="55.2" class="a" font-size="12.9">@@@@@@@@@@@@@@@%%%%%%%%%%%%%%%############ssssss############%%%%%%%%%%%%@@@@@@@@@@@@@@@@@@</text>
 </g>
 <rect y="45" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="0.18s" dur="0.09s" fill="freeze"/>
@@ -45,7 +45,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c3)">
-  <text xml:space="preserve" x="14" y="70.2" class="a" font-size="12.9">+************+::----=+-+**+*********ccccccc*ccc************ccccc***********ccccccc********</text>
+  <text xml:space="preserve" x="14" y="70.2" class="a" font-size="12.9">@@@@@@@@@@@@@@@%%%%%%%%%%########sssssssssssssssssssssssss#####%%%%%%%%%%%@@@@@@@@@@@@@@@@</text>
 </g>
 <rect y="60" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="0.27s" dur="0.09s" fill="freeze"/>
@@ -58,7 +58,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c4)">
-  <text xml:space="preserve" x="14" y="85.2" class="a" font-size="12.9">+************+::----=+=+**+******cccccccccccc++*******cccc********************************</text>
+  <text xml:space="preserve" x="14" y="85.2" class="a" font-size="12.9">@@@@@@@@@@@@@@%%%%%%%%#######ssssssssssccccsc*+cccccccssssssss####%%%%%%%%%@@@@@@@@@@@@@@@</text>
 </g>
 <rect y="75" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="0.36s" dur="0.09s" fill="freeze"/>
@@ -71,7 +71,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c5)">
-  <text xml:space="preserve" x="14" y="100.2" class="a" font-size="12.9">+************+::====+*=+*****ccccccccccccc+-`-*cccccccccccccc*****************************</text>
+  <text xml:space="preserve" x="14" y="100.2" class="a" font-size="12.9">@@@@@@@@@@@@%%%%%%%###s#sssssssscccccccccc*-:=*cccccccccsssssssss####%%%%%%%%%@@@@@@@@@@@@</text>
 </g>
 <rect y="90" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="0.45s" dur="0.09s" fill="freeze"/>
@@ -84,7 +84,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c6)">
-  <text xml:space="preserve" x="14" y="115.2" class="a" font-size="12.9">+************==-====+*=+***ccccccccccccc*:.`++-::```````::-=+*ccc**********c**************</text>
+  <text xml:space="preserve" x="14" y="115.2" class="a" font-size="12.9">@@@@@@@@@@@%%%%%%#####sssscssssssssssccc*:.`++--:``````::-=+*csssss####%%%%%%%%%@@@@@@@@@@</text>
 </g>
 <rect y="105" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="0.54s" dur="0.09s" fill="freeze"/>
@@ -97,7 +97,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c7)">
-  <text xml:space="preserve" x="14" y="130.2" class="a" font-size="12.9">+*****ccccc*--=:-===+*=*****cc*+=--===+*. .:`.................`-=*ccc*****cccccccccccccccc</text>
+  <text xml:space="preserve" x="14" y="130.2" class="a" font-size="12.9">@@@@@@@@@%%%%%%###sssscsccccccc*======+*`..:`...............`:-=*cs######%%%%%%%%@@@@@@@@@</text>
 </g>
 <rect y="120" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="0.63s" dur="0.09s" fill="freeze"/>
@@ -110,7 +110,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c8)">
-  <text xml:space="preserve" x="14" y="145.2" class="a" font-size="12.9">*cccccccccsc=:::----=*=****ccc*==-:`..............................`-+ccssscccccccccccccccc</text>
+  <text xml:space="preserve" x="14" y="145.2" class="a" font-size="12.9">@@@@@@@@%%%%%##ssssccs*ccc*ccs*+=-:`..........................```:-+cs##%%%%%%%%%%%@@@@@@@</text>
 </g>
 <rect y="135" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="0.72s" dur="0.09s" fill="freeze"/>
@@ -123,7 +123,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c9)">
-  <text xml:space="preserve" x="14" y="160.2" class="a" font-size="12.9">*scssssssssss*++=---=*=****css*=:``..................................`:=+*cssssssccccssscc</text>
+  <text xml:space="preserve" x="14" y="160.2" class="a" font-size="12.9">@@@@@@@@%%%%%%##scc*cc+ccc*css*=:``............................`````:-+cs#%%%%%%%%%@@@@@@@</text>
 </g>
 <rect y="150" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="0.81s" dur="0.09s" fill="freeze"/>
@@ -136,7 +136,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c10)">
-  <text xml:space="preserve" x="14" y="175.2" class="a" font-size="12.9">*sssssssssssssss=---=*=*****=`.. ...................................... .`::-==+*ssssscccc</text>
+  <text xml:space="preserve" x="14" y="175.2" class="a" font-size="12.9">@@@@@@%%%%%%%%%%c**+*c+***cc=`.. .................................```::-=*ccs##%%%%%%@@@@@</text>
 </g>
 <rect y="165" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="0.90s" dur="0.09s" fill="freeze"/>
@@ -149,7 +149,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c11)">
-  <text xml:space="preserve" x="14" y="190.2" class="a" font-size="12.9">*ccccccccccccccc=---=*=***-``:`..........................................:+*++**cccccccccc</text>
+  <text xml:space="preserve" x="14" y="190.2" class="a" font-size="12.9">@@@@@%%%%%%%%###c*+=+*+*cc-``:`....................................```::-+s###%%%%%%%%@@@@</text>
 </g>
 <rect y="180" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="0.99s" dur="0.09s" fill="freeze"/>
@@ -162,7 +162,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c12)">
-  <text xml:space="preserve" x="14" y="205.2" class="a" font-size="12.9">*ccccccccccccccc=---=*=*+`:=--``..............``...........................:cscscccccccccc</text>
+  <text xml:space="preserve" x="14" y="205.2" class="a" font-size="12.9">@@@@@%%%%%%%###s*++=+*=c+`:=--``..............``.....................``::-=*#%%%%%%%%%@@@@</text>
 </g>
 <rect y="195" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="1.08s" dur="0.09s" fill="freeze"/>
@@ -175,7 +175,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c13)">
-  <text xml:space="preserve" x="14" y="220.2" class="a" font-size="12.9">*ccccccccccccccc=---=*=-`*=:-`.`...................  .....  .....   ........`*sssssssscccc</text>
+  <text xml:space="preserve" x="14" y="220.2" class="a" font-size="12.9">@@@%%%%%%%%####s*===+*+=:*=:-`.`...................  .....  .....  ...``::--+#%%%%%%%%%@@@</text>
 </g>
 <rect y="210" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="1.17s" dur="0.09s" fill="freeze"/>
@@ -188,7 +188,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c14)">
-  <text xml:space="preserve" x="14" y="235.2" class="a" font-size="12.9">*ccccccccccccccc=---=*-:c=.``.....................  ...       .         ...:``csssssssssss</text>
+  <text xml:space="preserve" x="14" y="235.2" class="a" font-size="12.9">@@@%%%%%%%####ss+==-=*-:c=.``.....................  ...       . .      .`::+=+#%%%%%%%%%@@</text>
 </g>
 <rect y="225" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="1.26s" dur="0.09s" fill="freeze"/>
@@ -201,7 +201,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c15)">
-  <text xml:space="preserve" x="14" y="250.2" class="a" font-size="12.9">*sssccccssssssss----=*`*+......... ..... .  ......  .     `. .. .`:..   ....:`:cssssssssss</text>
+  <text xml:space="preserve" x="14" y="250.2" class="a" font-size="12.9">@@@%%%%%%%#####s+==-=*`*+......... ..... .  ......  .     `. .. .`:...  ``:-++*#%%%%%%%%@@</text>
 </g>
 <rect y="240" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="1.35s" dur="0.09s" fill="freeze"/>
@@ -214,7 +214,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c16)">
-  <text xml:space="preserve" x="14" y="265.2" class="a" font-size="12.9">csssssssssssssss---:+-:c` .......  ...       . ..  .  .. .:. .`.`+cccc-  ..... -#sssssssss</text>
+  <text xml:space="preserve" x="14" y="265.2" class="a" font-size="12.9">@@%%%%%%%%#####s=---+-:c` .......  ...       . ..  .  .. .:. .`.`+cccc-..``:--=c%%%%%%%%@@</text>
 </g>
 <rect y="255" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="1.44s" dur="0.09s" fill="freeze"/>
@@ -227,7 +227,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c17)">
-  <text xml:space="preserve" x="14" y="280.2" class="a" font-size="12.9">*sssssssssssssss=--:+`:+   ....   ..         . ..    .`  -:.  `.:c***c+`.  .   .ssssssssss</text>
+  <text xml:space="preserve" x="14" y="280.2" class="a" font-size="12.9">@%%%%%%%%%#####s=---+`:+   ....   ..         . ..    .`  -:.  `.:c***c+:..```:-+#%%%%%%@%@</text>
 </g>
 <rect y="270" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="1.53s" dur="0.09s" fill="freeze"/>
@@ -240,7 +240,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c18)">
-  <text xml:space="preserve" x="14" y="295.2" class="a" font-size="12.9">*sssssssssssssss=--:=`::  . ..   .           .      `c- -*-`  -.-c*c*c+`  .  ...csssssssss</text>
+  <text xml:space="preserve" x="14" y="295.2" class="a" font-size="12.9">%%%%%%%%%######s=--:=`::  . ..   .           .      `c- -*-`  -.-c*c*c*`. ```:-=#%%%%%%%%@</text>
 </g>
 <rect y="285" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="1.62s" dur="0.09s" fill="freeze"/>
@@ -253,7 +253,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c19)">
-  <text xml:space="preserve" x="14" y="310.2" class="a" font-size="12.9">*sssssssssssssss-:-:=`                            . :-``=---: -=`**ccc=.  .  :- +#ssssssss</text>
+  <text xml:space="preserve" x="14" y="310.2" class="a" font-size="12.9">%%%%%%%%%######s=--:=`                            . :-``=---: -=`**ccc=.  ...=+-s%%%%%%%%@</text>
 </g>
 <rect y="300" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="1.71s" dur="0.09s" fill="freeze"/>
@@ -266,7 +266,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c20)">
-  <text xml:space="preserve" x="14" y="325.2" class="a" font-size="12.9">csssssssssssssss-:::=+`           `:``-.  -` .    `.::   -:`:++c++c+=:.      ++ +#ssssssss</text>
+  <text xml:space="preserve" x="14" y="325.2" class="a" font-size="12.9">%%%%%%%%%######s=:-:=+`           `:``-.  -` .    `.::   -:`:++c++c+=:.  ....*c:s%%%%%%%%%</text>
 </g>
 <rect y="315" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="1.80s" dur="0.09s" fill="freeze"/>
@@ -279,7 +279,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c21)">
-  <text xml:space="preserve" x="14" y="340.2" class="a" font-size="12.9">csssssssssssssss-:::=+.         .=`::`:c`:c=:`.   -+sc=-=ss*=ccccc=:-:-     :#*.c#ssssssss</text>
+  <text xml:space="preserve" x="14" y="340.2" class="a" font-size="12.9">%%%%%%%%%######s-:::=+.         .=`::`:c`:c=:`.   -+sc=-=ss*=ccccc=:-:-  . .-#c-#%%%%%%%%%</text>
 </g>
 <rect y="330" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="1.89s" dur="0.09s" fill="freeze"/>
@@ -292,7 +292,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c22)">
-  <text xml:space="preserve" x="14" y="355.2" class="a" font-size="12.9">csssssssssssssss-:::`   .       :s:::``-scccc*+-. -scccsccccccccc*  ``     `s%-`#sssssssss</text>
+  <text xml:space="preserve" x="14" y="355.2" class="a" font-size="12.9">%%%%%%%%%######s-:::`   .       :s:::``-scccc*+-. -scccsccccccccc*  ``     :#%+=%#%%%%%%%%</text>
 </g>
 <rect y="345" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="1.98s" dur="0.09s" fill="freeze"/>
@@ -305,7 +305,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c23)">
-  <text xml:space="preserve" x="14" y="370.2" class="a" font-size="12.9">csssssssssssssss-::..`:-.  .     +*:`::*cccccccc**-*cccccccccccccc:== :-  =##c:c#ssssssssc</text>
+  <text xml:space="preserve" x="14" y="370.2" class="a" font-size="12.9">%%%%%%%%%######s-::..`:-.  .     +*:`::*cccccccc**-*cccccccccccccc:== :-  =##s=s%#%%%%%%%%</text>
 </g>
 <rect y="360" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="2.07s" dur="0.09s" fill="freeze"/>
@@ -318,7 +318,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c24)">
-  <text xml:space="preserve" x="14" y="385.2" class="a" font-size="12.9">csssssssssssssss-`:`=*:``-*:      :+-::=ccccccccccscccccccccccccccc+=**.:s#ss+c#sssscccccc</text>
+  <text xml:space="preserve" x="14" y="385.2" class="a" font-size="12.9">%%%%%%%%#######s-:::=*:``-c:      :+-::=ccccccccccscccccccccccccccc+=**.:s#s#*s###%%%%%%%%</text>
 </g>
 <rect y="375" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="2.16s" dur="0.09s" fill="freeze"/>
@@ -331,7 +331,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c25)">
-  <text xml:space="preserve" x="14" y="400.2" class="a" font-size="12.9">csssssssssssssss:`:`-+:*cc+.+*     .-**+*cccccccccccccccccccccccccc*-*-*#sssss#sssssc*****</text>
+  <text xml:space="preserve" x="14" y="400.2" class="a" font-size="12.9">%%%%%%%%%######s-`:`-+:*cc+.+*     .-**+*cccccccccccccccccccccccccc*-*-*##s#######%%%%%%%%</text>
 </g>
 <rect y="390" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="2.25s" dur="0.09s" fill="freeze"/>
@@ -344,7 +344,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c26)">
-  <text xml:space="preserve" x="14" y="415.2" class="a" font-size="12.9">cssssccccsssssss:```-+-***+c#%`      `-::*cccccccccccccccccccccccc*=:--+*sssssssssccc*****</text>
+  <text xml:space="preserve" x="14" y="415.2" class="a" font-size="12.9">%%%%%%#########s-```-+-***+c#%`      `-::*cccccccccccccccccccccccc*=:--+*s#s########%%%%%%</text>
 </g>
 <rect y="405" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="2.34s" dur="0.09s" fill="freeze"/>
@@ -357,7 +357,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c27)">
-  <text xml:space="preserve" x="14" y="430.2" class="a" font-size="12.9">+*cc**++**csssss:```-+:****cs#=-:    :::::*ccccccccccccccccccccccc*::`=c++sssssscc********</text>
+  <text xml:space="preserve" x="14" y="430.2" class="a" font-size="12.9">%%%%%###sss###ss:```-+:****cs#=-:    :::::*ccccccccccccccccccccccc*::`=c++sss########%%%%%</text>
 </g>
 <rect y="420" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="2.43s" dur="0.09s" fill="freeze"/>
@@ -370,7 +370,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c28)">
-  <text xml:space="preserve" x="14" y="445.2" class="a" font-size="12.9">++**+++++*csssss:```:=:++*+*s#ssc  `.::::::=*ccccccccccc*+**+*c*c*:``=cc++csccsssc**++++++</text>
+  <text xml:space="preserve" x="14" y="445.2" class="a" font-size="12.9">%%%%%###sss##sss:```:=:++*+*s#ssc  `.::::::=*ccccccccccc*+**+*c*c*:``=cc++c#ss#######%%%%%</text>
 </g>
 <rect y="435" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="2.52s" dur="0.09s" fill="freeze"/>
@@ -383,7 +383,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c29)">
-  <text xml:space="preserve" x="14" y="460.2" class="a" font-size="12.9">=+++++++++***css`.`.:=:++**cs*+c* .::::::::::-+*cccccccccccccc***::==*cc+-ssccccc*++++++++</text>
+  <text xml:space="preserve" x="14" y="460.2" class="a" font-size="12.9">%%%%%###ssssccss:``.:=:++**cs*+c* .::::::::::-+*cccccccccccccc***::==*cc*=sssss######%%%%%</text>
 </g>
 <rect y="450" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="2.61s" dur="0.09s" fill="freeze"/>
@@ -396,7 +396,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c30)">
-  <text xml:space="preserve" x="14" y="475.2" class="a" font-size="12.9">=++++++++++++css`...:=:+++=-`  cs+=:::::::`::::-=+*cccccccc*+*****cccccc*=sscc**++++++++++</text>
+  <text xml:space="preserve" x="14" y="475.2" class="a" font-size="12.9">%%%%%###ssccccss:.`.:=:+++=-`  cs+=:::::::`::::-=+*cccccccc*+*****cccccc*+#sssssss###%%%%%</text>
 </g>
 <rect y="465" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="2.70s" dur="0.09s" fill="freeze"/>
@@ -409,7 +409,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c31)">
-  <text xml:space="preserve" x="14" y="490.2" class="a" font-size="12.9">=+++=====+++*css`...:-`--.   . :###s+-::::`::::::::-=+*ccc*=*ccccccccccc=cs***++++++++++++</text>
+  <text xml:space="preserve" x="14" y="490.2" class="a" font-size="12.9">%%%%%%##sssccsss:...:-`--.   . :###s+-::::`::::::::-=+*ccc*=*ccccccccccc=ssccccsss##%%%%%%</text>
 </g>
 <rect y="480" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="2.79s" dur="0.09s" fill="freeze"/>
@@ -422,7 +422,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c32)">
-  <text xml:space="preserve" x="14" y="505.2" class="a" font-size="12.9">=====+++=====-==.   ..  +: .... =#ss##c+-:``::::::::::::=+:*ccccccccc*c*=**+++++++++++++++</text>
+  <text xml:space="preserve" x="14" y="505.2" class="a" font-size="12.9">%%%%%%###scc**++`.....  +: .... =#ss##c+-:``::::::::::::=+:*ccccccccccc*=ccccccss###%%%%%@</text>
 </g>
 <rect y="495" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="2.88s" dur="0.09s" fill="freeze"/>
@@ -435,7 +435,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c33)">
-  <text xml:space="preserve" x="14" y="520.2" class="a" font-size="12.9">-===-:`....             :+. ... .c#sss##sc=`:::::::::::-=:-ccccccccccc*-=++========+++++==</text>
+  <text xml:space="preserve" x="14" y="520.2" class="a" font-size="12.9">%%%%%%#sc*+=-:``....    :+. ... .c#sss##sc=`:::::::::::-=:-ccccccccccc*=+****ccss##%%%%%%@</text>
 </g>
 <rect y="510" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="2.97s" dur="0.09s" fill="freeze"/>
@@ -448,7 +448,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c34)">
-  <text xml:space="preserve" x="14" y="535.2" class="a" font-size="12.9">---`                    .+`    . `sssssss##s*-:::::::`-*--ccccccccc***-=+++=====++++++++++</text>
+  <text xml:space="preserve" x="14" y="535.2" class="a" font-size="12.9">@@%%%##sc**+=-:``...... .+`    . `sssssss##s*-:::::::`-*--ccccccccc***==****ccss###%%%%%%@</text>
 </g>
 <rect y="525" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="3.06s" dur="0.09s" fill="freeze"/>
@@ -461,7 +461,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c35)">
-  <text xml:space="preserve" x="14" y="550.2" class="a" font-size="12.9">--.                     `+:     . -#ssssssss##*:::::::--:-c*cccc****--=+++=====+++++++++++</text>
+  <text xml:space="preserve" x="14" y="550.2" class="a" font-size="12.9">@@%%%%##sc*+=--:``..... `+:     . -#ssssssss##*:::::::--:-c*cccc**c*-=++***ccss##%%%%%%%@@</text>
 </g>
 <rect y="540" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="3.15s" dur="0.09s" fill="freeze"/>
@@ -474,7 +474,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c36)">
-  <text xml:space="preserve" x="14" y="565.2" class="a" font-size="12.9">:                       `+:        *#ssssssssc+*+-`:-----`=c*******c=:--=======+++++++++++</text>
+  <text xml:space="preserve" x="14" y="565.2" class="a" font-size="12.9">@@%%%%%##sc*+=-::``.... :+:        *#ssssssssc+*+-`:-----`=c*******c=-=+***css###%%%%%%%@@</text>
 </g>
 <rect y="555" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="3.24s" dur="0.09s" fill="freeze"/>
@@ -487,7 +487,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c37)">
-  <text xml:space="preserve" x="14" y="580.2" class="a" font-size="12.9">                        :+`        .ssssssssc-*c#c:---:`+-`+c*******++- :===========++==++</text>
+  <text xml:space="preserve" x="14" y="580.2" class="a" font-size="12.9">@@@%%%%%#ssc*+=-::``... :+`        .ssssssssc-*c#c:---:`+-`+c*****c*+*+`+*ccss##%%%%%%%@@@</text>
 </g>
 <rect y="570" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="3.33s" dur="0.09s" fill="freeze"/>
@@ -500,7 +500,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c38)">
-  <text xml:space="preserve" x="14" y="595.2" class="a" font-size="12.9">                        -=`         -#ssss#c:=*cc+`:::::*+.:+*****++*ss  -================</text>
+  <text xml:space="preserve" x="14" y="595.2" class="a" font-size="12.9">@@@%%%%%%#ssc*+==::``...-+`         -#ssss#c:=*cc+`:::::*+.:+****c**c#s:-ccss###%%%%%%@@@@</text>
 </g>
 <rect y="585" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="3.42s" dur="0.09s" fill="freeze"/>
@@ -513,7 +513,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c39)">
-  <text xml:space="preserve" x="14" y="610.2" class="a" font-size="12.9">                        -=.          =sss#=.:=*++-.``:::::``:+**+++css`  `=---============</text>
+  <text xml:space="preserve" x="14" y="610.2" class="a" font-size="12.9">@@@@%%%%%%##sc**+=-:``..==.          =sss#=.:=*++-.``:::::``:+***+*s#s=-=*ss###%%%%%%@@@@@</text>
 </g>
 <rect y="600" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="3.51s" dur="0.09s" fill="freeze"/>
@@ -526,7 +526,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c40)">
-  <text xml:space="preserve" x="14" y="625.2" class="a" font-size="12.9">                        ==`          .=sc:  `**cs:``:. `::```:+==cs#*.    :=------====---=</text>
+  <text xml:space="preserve" x="14" y="625.2" class="a" font-size="12.9">@@@@@@%%%%%##scc*+=-::`.=+`.         .=sc:  `**cs:``:. `::```:+=+cs#c--=+*s##%%%%%%@@@@@@@</text>
 </g>
 <rect y="615" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="3.60s" dur="0.09s" fill="freeze"/>
@@ -539,7 +539,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c41)">
-  <text xml:space="preserve" x="14" y="640.2" class="a" font-size="12.9">                        .`::::``..    `-:    :csc```    .. :::-*ssc-      .---------------</text>
+  <text xml:space="preserve" x="14" y="640.2" class="a" font-size="12.9">@@@@@@%%%%%%##ssc*+=-::`:----:``..    `-:    :csc```    .. :::-csss+--=+*cs#%%%%%%%@@@@@@@</text>
 </g>
 <rect y="630" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="3.69s" dur="0.09s" fill="freeze"/>
@@ -552,7 +552,7 @@
   </rect>
 </clipPath>
 <g clip-path="url(#c42)">
-  <text xml:space="preserve" x="14" y="655.2" class="a" font-size="12.9">                             .`:::::````:`    -cc::`       .:-+cc+.        .--=-----------</text>
+  <text xml:space="preserve" x="14" y="655.2" class="a" font-size="12.9">@@@@@@@@%%%%%##ssc*+=-:`......`:::::````:`    -cc::`       .:-+ss*-:-=+*css#%%%%%@@@@@@@@@</text>
 </g>
 <rect y="645" width="6" height="12" class="a" opacity="0">
   <animate attributeName="x" from="14" to="710.6" begin="3.78s" dur="0.09s" fill="freeze"/>
