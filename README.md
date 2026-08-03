@@ -1,81 +1,57 @@
-<p align="center">
-  <a href="https://github.com/yadavnikhil03">
-    <img width="80%" alt="Hello, I'm Nikhil. I do open source" src="./assets/gh-readme-header.png" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  Self-taught frontend developer from India 🇮🇳 who enjoys building things from scratch with clean logic.
-</p>
+<img src="./ascii.svg" width="460" alt="yadavnikhil03"/>
 
-<p align="center">
-  <a href="https://github.com/yadavnikhil03/yadavnikhil03/issues">Ask me anything</a>
-</p>
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
----
+[github](https://github.com/yadavnikhil03) &nbsp;·&nbsp;
+[twitter](#) &nbsp;·&nbsp;
+[linkedin](#) &nbsp;·&nbsp;
+[email](mailto:nikhil181245@gmail.com)
 
-## About me
+</div>
 
-- 🎓 Student
-- ⚛️ Focused on React, TypeScript, and frontend architecture
-- 🧠 I like type-level experiments and solving tricky UI logic
-- 🛠️ Prefer clean, maintainable code over shortcuts
+<img src="./hd-about.svg" width="620" alt="about"/>
 
-## Tech stack
+> CA Student, exploring the limits of code and creativity.<br>
+> I build fast, learn fast, and focus on practical solutions.
 
-<p>
-  <img height="24" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-  <img height="24" alt="typescript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" />
-  <img height="24" alt="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-  <img height="24" alt="tailwind" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" />
-</p>
+I'm currently focused on building robust web applications and experimenting<br>
+with automation and AI. Always looking for the next challenging problem to solve.
 
-## GitHub stats
+<img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<p align="center">
-  <a href="https://github.com/yadavnikhil03">
-    <img
-      height="170"
-      src="https://github-readme-stats.vercel.app/api?username=yadavnikhil03&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&cache_seconds=86400"
-      alt="Nikhil's GitHub stats"
-    />
-  </a>
-  <a href="https://github.com/yadavnikhil03">
-    <img
-      height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavnikhil03&layout=compact&theme=default&hide_border=true&cache_seconds=86400"
-      alt="Top Languages"
-    />
-  </a>
-</p>
+<samp>python &nbsp; javascript &nbsp; typescript &nbsp; react &nbsp; node.js &nbsp; docker &nbsp; git &nbsp; linux</samp>
 
-## Activity graph
+<img src="./hd-projects.svg" width="620" alt="projects"/>
 
-[![Nikhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yadavnikhil03&bg_color=ffffff&color=374151&line=111827&point=111827&area=true&hide_border=true)](https://github.com/yadavnikhil03)
+**[Play-integrity-fix-guide](https://github.com/yadavnikhil03/Play-integrity-fix-guide)** &nbsp;·&nbsp; <samp>guide, magisk</samp><br>
+Easiest Way to Fix Strong Integrity on Custom ROMs & Rooted Devices
 
-## Featured repositories
+**[GameUnlocker](https://github.com/yadavnikhil03/GameUnlocker)** &nbsp;·&nbsp; <samp>C++</samp><br>
+A Magisk/KSU module that unlocks 90 FPS and higher in BGMI, PUBG, and other games, delivering smoother gameplay even on low-end devices.
 
-<p>
-  <a href="https://github.com/yadavnikhil03/Play-integrity-fix-guide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadavnikhil03&repo=Play-integrity-fix-guide&theme=default&hide_border=true&cache_seconds=86400" alt="Play-integrity-fix-guide" />
-  </a>
-  <a href="https://github.com/yadavnikhil03/GameUnlocker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yadavnikhil03&repo=GameUnlocker&theme=default&hide_border=true&cache_seconds=86400" alt="GameUnlocker" />
-  </a>
-</p>
+**[SwapBoost-Pro](https://github.com/yadavnikhil03/SwapBoost-Pro)** &nbsp;·&nbsp; <samp>Shell</samp><br>
+A magisk module that optimizes your device's memory performance through persistent zRAM + Swapfile optimization with VM tweaks.
 
-## Connect
+<img src="./hd-stats.svg" width="620" alt="stats"/>
 
-<p align="center">
-  <a href="https://github.com/yadavnikhil03">
-    <img alt="GitHub" width="24px" src="./assets/github.svg" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/yadavnikhil._">
-    <img alt="Instagram" width="24px" src="./assets/instagram.svg" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://count.getloli.com/@yadavnikhil03?name=yadavnikhil03&theme=moebooru" alt="Profile views" />
-</p>
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
+
+</div>
+
+<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
+
+Every graphic here is generated, not embedded from anyone else's server.<br>
+`ascii.svg` is an animated typing portrait. The stat graphics and section headings are drawn by [a scheduled action](.github/workflows/refresh.yml)<br>
+straight from the GitHub GraphQL API, once a day, committing only what changed.
+
+They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
+READMEs — and since nothing loads from a third party, nothing here can<br>
+rate-limit or go dark.
